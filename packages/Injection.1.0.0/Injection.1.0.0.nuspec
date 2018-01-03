@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Injection</id>
+    <version>1.0.0</version>
+    <title>Injection</title>
+    <authors>Adam Riddick</authors>
+    <owners>Adam Riddick</owners>
+    <projectUrl>http://www.adamriddick.com/injection/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Injection is a lightweight dependency injection container. Injection allows for the configuration of Type Mappings, Lifetime management of mappings and resolution of instantiated objects.</description>
+    <summary>Injection is a lightweight dependency injection container. Injection allows for the configuration of Type Mappings, Lifetime management of mappings and resolution of instantiated objects.</summary>
+    <releaseNotes>V1.0.0 Initial Release</releaseNotes>
+  </metadata>
+</package>
